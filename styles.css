@@ -1,0 +1,73 @@
+/*----------Global styles----------*/
+#kilimanjaro-container h1 {
+font-size: 48px;
+font-weight: 400;
+}
+
+#kilimanjaro-container h2 {
+font-size: 36px;
+font-weight: 400;
+}
+
+h1, p, body {
+font-family: ‘Hind’;
+}
+
+p {
+line-height: normal;
+
+}
+
+/*———-Helper classes. These classes will be added to <div> tags and other elements.———-*/
+
+.center {
+
+text-align: center;
+
+}
+
+.underline {
+text-decoration: underline;
+}
+
+.button {
+background-color: #ff530d;
+padding: 20px 40px 20px 40px;
+color: white;
+text-decoration: none;
+border-radius: 10px;
+text-transform: uppercase;
+font-family: ‘Montserrat’;
+letter-spacing: 2px;
+cursor:pointer;
+box-shadow: 8px 10px 20px 0px rgba(46,61,73,0.15);
+}
+
+.button:hover {
+background-color: #ec4501;
+padding: 20px 40px 20px 40px;
+color: white;
+text-decoration: none;
+border-radius: 10px;
+text-transform: uppercase;
+font-family: ‘Montserrat’;
+letter-spacing: 2px;
+cursor:pointer;
+}
+
+
+/*———-Header section———-*/
+
+/*———-Hero section———-*/
+
+/*———-Product explanation ———-*/
+
+/*———-How it works———-*/
+
+/*———-As seen in———-*/
+
+/*———-FAQs———-*/
+
+ 
+
+/*----------Footer----------*/
