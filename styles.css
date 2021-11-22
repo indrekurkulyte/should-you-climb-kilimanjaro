@@ -15,7 +15,7 @@ font-family: ‘Montserrat’;
 
 p {
 line-height: normal;
-
+font-size: 20px;
 }
 
 /*———-Helper classes. These classes will be added to <div> tags and other elements.———-*/
